@@ -1,0 +1,11 @@
+CPK Ingeniería - Actualización 15/10/2026
+
+1. Descomprimir el ZIP.
+2. Abrir el repositorio del sitio en GitHub.
+3. Ir a Add file > Upload files.
+4. Arrastrar index.html, assets, documents y .nojekyll a la raíz del sitio. No subir la carpeta contenedora ni el ZIP.
+5. Confirmar con Commit changes. Mensaje sugerido: Actualizar PDF institucionales sin retratos y con perfiles al final.
+6. Esperar la publicación de GitHub Pages y recargar con Ctrl+F5.
+
+Los dos PDF tienen cuatro páginas, sin retratos, y el equipo profesional en la última.
+Se incluye la imagen de fundación disponible en la versión de trabajo; la foto adjuntada a las 16:56 no pudo incorporarse.
